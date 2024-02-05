@@ -1,0 +1,89 @@
+.header{
+
+    display: flex;
+    justify-content: start;
+    height: 70px;
+    flex-direction: row;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    align-items: center;
+    background-color: rgb(230, 228, 228);
+    border: none;
+}
+
+.header .title{
+
+    margin-left: 65px;
+    display: flex;
+    align-items: center;
+
+    height: 60px;
+    font-size: 35px;
+    color: black;
+}
+
+.header .home{
+
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    color: black;
+
+    margin-left: 250px;
+
+}
+
+.header .aboutus{
+
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+  
+
+    margin-left: 50px;
+    color: black;
+
+}
+
+.header .buydogs{
+
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+
+    margin-left: 50px;
+    color: black;
+}
+
+.header .photos{
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    color: black;
+    
+    margin-left: 50px;
+ 
+
+
+}
+
+.header .contact{
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+
+    margin-left: 50px;
+    color: black;
+}
+
+.header .callus{
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    color: black;
+  
+    margin-left: 50px;
+}
